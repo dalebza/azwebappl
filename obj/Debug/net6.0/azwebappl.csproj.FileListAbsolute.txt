@@ -1,0 +1,6 @@
+C:\Users\kolam\Source\Repos\azwebappl\obj\Debug\net6.0\azwebappl.csproj.AssemblyReference.cache
+C:\Users\kolam\Source\Repos\azwebappl\obj\Debug\net6.0\azwebappl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolam\Source\Repos\azwebappl\obj\Debug\net6.0\azwebappl.AssemblyInfoInputs.cache
+C:\Users\kolam\Source\Repos\azwebappl\obj\Debug\net6.0\azwebappl.AssemblyInfo.cs
+C:\Users\kolam\Source\Repos\azwebappl\obj\Debug\net6.0\azwebappl.csproj.CoreCompileInputs.cache
+C:\Users\kolam\Source\Repos\azwebappl\obj\Debug\net6.0\azwebappl.MvcApplicationPartsAssemblyInfo.cache
